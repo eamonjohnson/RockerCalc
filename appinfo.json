@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "eamonjohnson@gmail.com",
+    "longName": "RockerCalc",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/rocker2.png",
+                "menuIcon": true,
+                "name": "ICON_ROCKER_2",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "RockerCalc",
+    "uuid": "3a8e34e3-c296-44e9-bce8-906e32a5b571",
+    "versionCode": 1,
+    "versionLabel": "0.0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
